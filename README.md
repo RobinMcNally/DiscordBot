@@ -1,6 +1,6 @@
 # Another Discord Bot
 
-## Development
+## Development (Python 3.6.0)
 
 Clone the repo install.
 

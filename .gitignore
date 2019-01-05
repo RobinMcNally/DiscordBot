@@ -88,4 +88,8 @@ ENV/
 # Rope project settings
 .ropeproject
 
+# Our Key file
 OAuth.json
+
+# Visual studio code settings
+.vscode
